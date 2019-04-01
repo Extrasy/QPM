@@ -180,6 +180,10 @@ header {
     color: #fff;
 }
 
+.carousel img{
+    width: 100%
+}
+
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -415,7 +419,7 @@ figure.effect-bubba:hover p {
 }
 
 .bg-img1 {
-    background-image: url(../images/demo/office-bg.jpg);
+    background-image: url(../images/demo/tree_hill_2-1920x1285.jpg);
     background-size: cover !important;
     background-position: center center;
     background-repeat: no-repeat;
@@ -427,7 +431,7 @@ figure.effect-bubba:hover p {
 }
 
 .overlay-dark:before, .overlay-light:before {
-    background-color: rgba(32,32,32,0.8);
+    background-color: rgba(32, 32, 32, 0.336);
     left: 0;
     top: 0;
     position: absolute;
@@ -447,16 +451,17 @@ figure.effect-bubba:hover p {
     padding-bottom: 110px;
 }
 
-.counter-item h2 {
+.counter-item i {
     color: #fff;
     font-size: 60px;
     margin: 0;
 }
 
 .counter-item h6 {
-    color: #fff;
-    font-size: 19px;
-    margin: 0;	
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    margin: 0;
+    font-weight: 700;
 }
 
 /*--------------------
