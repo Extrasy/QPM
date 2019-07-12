@@ -1,0 +1,20 @@
+{
+  "name": "qpm",
+  "version": "1.0.0",
+  "description": "qpm-web-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Extrasy/QPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Extrasy/QPM/issues"
+  },
+  "homepage": "https://github.com/Extrasy/QPM#readme"
+}
