@@ -725,4 +725,7 @@ and (max-width : 480px) {
     margin-top: 7px;
     font-size: 20px;
 }
+.section-title p {
+    margin: auto;
+}
 }
