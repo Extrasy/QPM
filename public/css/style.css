@@ -420,7 +420,27 @@ figure.effect-bubba:hover p {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
+.flyer{
+    background-color: blue;
+    padding: 10px;
+}
 
+.info-img-flyer1 {
+    background-size: 100%;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.info-img-flyer2 {
+    background-size: 100%;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
 /*--------------------
 4.4. Dark Short section (counters, quote, etc)
 --------------------*/
