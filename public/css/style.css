@@ -441,6 +441,14 @@ figure.effect-bubba:hover p {
     background-position: center;
     
 }
+.info-img-sanitizante {
+    background-size: 100%;
+    height: auto;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
 /*--------------------
 4.4. Dark Short section (counters, quote, etc)
 --------------------*/
